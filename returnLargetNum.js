@@ -13,5 +13,5 @@ function returnLargestNum(arr) {
 }
 
 
-const numbers = [3, -1, 14, 2, 0, -5];
+const numbers = [-3, -1, -14, -2, 0, -5];
 console.log(returnLargestNum(numbers)); // Output: 14
